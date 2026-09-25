@@ -8,7 +8,7 @@ import {
   CheckCircle2,
 } from "lucide-react";
 
-import addContactImage from "../../assets/how-it-works/addContact.png";
+import addContactImage from "../../assets/how-it-works/addcontact.png";
 import reminderImage from "../../assets/how-it-works/reminder.png";
 import wishImage from "../../assets/how-it-works/sendWish.png";
 import { FaWhatsapp } from "react-icons/fa";
